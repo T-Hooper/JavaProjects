@@ -1,0 +1,76 @@
+--naturalDisasters-------------------------
+a volcano
+a hurricane
+an earthquake
+a landslide
+an avalanche
+a flood
+a tsunami
+--blades-------------------
+paper
+scissors
+a machete
+a knife
+a lightsaber
+your front door key
+a pen
+a butter knife
+a sharde of glass
+a spear
+a samurai sword
+a glass bottle
+--guns-------------------
+a sniper
+a Glock
+a shotgun
+a sawed-off shotgun
+a gun
+a M4-16
+an AK 47
+a blaster
+a P90
+a silenced pistol
+a Desert Eagle
+--exposives-------------------
+a granade
+a nuke
+plastic expolsives
+C4
+a bomb
+a claymore
+a missile
+a rocket launcher
+a mine
+a drone strike
+--handToHandCombat-------------------
+a punch
+a wooden spoon
+a rolling pin
+a head-but
+a knee 
+an elbow
+a stick
+a left hook
+a knuckle duster
+--fire-------------------
+a molotov cocktail
+fire
+a flame thrower
+a forest fire
+an oven
+gas
+acid
+--drop/throw-------------------
+an anvil
+a brick
+a rock
+a shed
+a dumbbell
+a cannon ball
+a shot put
+--vehicles-------------------
+a car
+a train 
+a motorbike
+a tractor
+a bus
